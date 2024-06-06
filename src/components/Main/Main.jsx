@@ -19,7 +19,7 @@ const Main = () => {
             {!showResult
             ?<>
                 <div className="greet">
-                    <p><span>Hello, Kurama</span></p>
+                    <p><span>Hello, User</span></p>
                     <p>How may I help you?</p>
                 </div>
                 <div className="cards">
